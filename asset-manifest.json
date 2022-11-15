@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TakingRootApp/static/css/main.2112c1da.css",
+    "main.js": "/TakingRootApp/static/js/main.d4cc5152.js",
+    "static/js/787.0420ccf9.chunk.js": "/TakingRootApp/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/TakingRootApp/index.html",
+    "main.2112c1da.css.map": "/TakingRootApp/static/css/main.2112c1da.css.map",
+    "main.d4cc5152.js.map": "/TakingRootApp/static/js/main.d4cc5152.js.map",
+    "787.0420ccf9.chunk.js.map": "/TakingRootApp/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2112c1da.css",
+    "static/js/main.d4cc5152.js"
+  ]
+}
